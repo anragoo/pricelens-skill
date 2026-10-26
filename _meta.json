@@ -1,0 +1,14 @@
+{
+  "slug": "pricelens",
+  "name": "PriceLens · 多平台比价购物推荐",
+  "version": "3.4.6",
+  "author": "Nathan Liu",
+  "canonicalName": "@nathan/pricelens",
+  "namespace": "nathan",
+  "labels": {
+    "requires_api_key": "false",
+    "requires_network": "true",
+    "category": "shopping"
+  },
+  "license": "MIT"
+}
